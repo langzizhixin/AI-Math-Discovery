@@ -5,7 +5,7 @@ Currently, over a dozen mathematical theorems have been discovered, including th
 ## 1. Simson-Lu_Theorem  
 <p align='center'>
   <b>
-    <a href="https://www.bilibili.com/video/BV1sbRKBFECa/?spm_id_from=333.1387.upload.video_card.click&vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
+    <a href="https://www.bilibili.com/video/BV1pNev6xEyJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
     |     
     <a href="https://doi.org/10.5281/zenodo.23386090"> Paper </a>
     |
