@@ -12,3 +12,8 @@ Currently, over a dozen mathematical theorems have been discovered, including th
     <a href="https://github.com/langzizhixin/AI-Math-Discovery">Code</a> 
   </b>
 </p> 
+
+## 📊 Project Poster
+<p align='center'>  
+    <img src='Simson-Lu_Theorem/幻灯片2.JPG' width='1200'/>
+</p>
