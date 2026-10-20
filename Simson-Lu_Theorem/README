@@ -1,0 +1,15 @@
+The Simson–Lu Theorem
+— Collinearity After n−2 Iterations of the Pedal Transformation of a Cyclic n-gon
+Author: Rui Lu | Email: 277504483@qq.com | Chengdu, Sichuan, China
+September 2026
+Timeline
+2002 (age 17, during high school): The author reports discovering the theorem.
+2007: The author reports public publication in Popular Science magazine.
+2022: Video materials were posted on Bilibili.
+2023: A complex-number proof was discussed by another contributor on Mathematics Stack Exchange.
+September 2026: With AI assistance, the author organized four proof approaches: elementary geometry, analytic geometry, complex numbers, and higher mathematics.
+
+Abstract
+This paper studies the following recursive pedal construction. Let A₁A₂…Aₙ be n points on a circle, and let P be another point on the same circle. In each round, orthogonally project P onto the supporting lines through consecutive vertices; then repeat the operation using the lines through consecutive points of the resulting pedal polygon. The paper claims that after n−2 iterations the n resulting points are collinear, and that after n−1 iterations all n points coincide. For n=3, the statement reduces to the classical Simson–Wallace theorem.
+Four proof frameworks are presented: (1) elementary Euclidean geometry using inscribed angles, pedal circles, and a Miquel-type geometric recursion; (2) analytic geometry and induction, expressing the feet in coordinates; (3) a complex-number approach using normalization to the unit circle and a product formula; and (4) an operator-theoretic approach interpreting the iteration as a sliding-product operator on a periodic sequence, with shift operators, circulant matrices, and discrete Fourier analysis used to describe the claimed one-dimensional degeneration.
+Keywords: Simson theorem; pedal polygon; pedal transformation; cyclic polygon; mathematical induction; complex method; linear operator; discrete Fourier transform.
