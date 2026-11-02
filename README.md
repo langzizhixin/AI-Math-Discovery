@@ -36,7 +36,7 @@ Simson-Lu_Theorem：Let A₁A₂…Aₙ be n points on a circle, and let P be an
 </p>
 Lu’s Three-Chord Identity：A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A₆·P₁P₂ =   A₁A₂·A₂A₄·P₂P₃ + A₁A₃·A₁A₆·P₁P₂  The identity above holds (L3).
 
-卢氏三弦定理：如图所示  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A₆·P₁P₂ =   A₁A₂·A₂A₄·P₂P₃ + A₁A₃·A₁A₆·P₁P₂ 
+卢氏三弦定理：如图所示圆上六点三弦，本人寻找到一个独创性的恒等式，  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A₆·P₁P₂ =   A₁A₂·A₂A₄·P₂P₃ + A₁A₃·A₁A₆·P₁P₂ 
 
 
 
