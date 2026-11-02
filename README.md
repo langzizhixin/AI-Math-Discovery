@@ -40,7 +40,7 @@ Simson-Lu_Theorem：Let A₁A₂…Aₙ be n points on a circle, and let P be an
 </p>
 Lu’s Three-Chord Identity：  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A₆·P₁P₂  =   A₁A₂·A₂A₄·P₂P₃ + A₁A₃·A₁A₆·P₁P₂       The identity above holds (L3).
 
-卢氏三弦定理：如图所示圆上六点三弦，本人寻找到一个独创性的恒等式，  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A₆·P₁P₂  =   A₁A₂·A₂A₄·P₂P₃ + A₁A₃·A₁A₆·P₁P₂ 
+卢氏三弦定理：如图所示本人寻找到一个独创性的恒等式，  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A₆·P₁P₂  =   A₁A₂·A₂A₄·P₂P₃ + A₁A₃·A₁A₆·P₁P₂ 
 
 欧式几何历经两千多年发展，被数以万计的数学家、好者翻来覆去的研究过，所以这个领域被公认为是新定理发现的红海区。要想在这个领域发现新的，独创性的定理难度非常非常大。有幸在艰辛付出后，被我抓到第二枚定理。
 
