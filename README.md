@@ -2,6 +2,7 @@
 AI Math Discovery — Discover New Mathematics with AI
 Exploring original mathematical theorems, conjectures, identities, and proofs with AI.
 Currently, over a dozen mathematical theorems have been discovered, including the Simson-Lu Theorem, the Lu 3-Chord Identity Theorem, the Lu Double Extraction Surface Inequality, and so on.
+AI数学发现——利用AI探索新的数学领域，运用AI探索原创的数学定理、猜想、恒等式和证明。目前，本人已发现十余个数学定理，包括西姆松-卢定理，卢氏三弦恒等式，卢氏不等式等等。
 ## 1. Simson-Lu_Theorem  
 <p align='center'>
   <b>
