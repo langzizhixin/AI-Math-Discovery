@@ -29,5 +29,5 @@ Currently, over a dozen mathematical theorems have been discovered, including th
 </p> 
 
 <p align='center'>  
-    <img src='Lu_Three_Chord_Identities /卢氏-L3定理封面图.png' width='1200'/>
+    <img src='Lu_Three_Chord_Identities/卢氏-L3定理封面图.png' width='1200'/>
 </p>
