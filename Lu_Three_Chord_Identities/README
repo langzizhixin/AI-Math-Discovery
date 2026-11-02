@@ -1,0 +1,4 @@
+Lu’s Three-Chord Identity L3
+Theorem 3.1 (L3). In the configuration of Section 2, the following identity always holds:
+A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A₆·P₁P₂  =   A₁A₂·A₂A₄·P₂P₃ + A₁A₃·A₁A₆·P₁P₂     　(L3)
+Each term in L3 is a product of three lengths; hence the identity is homogeneous of degree three. Under a uniform similarity scaling by λ, every length is multiplied by λ, so both sides of the identity are multiplied by λ³.
