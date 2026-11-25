@@ -60,7 +60,7 @@ Lu’s Three-Chord Identity：  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A�
 </p>
 Lu’s Corresponding Polygon Inequalities and Their Discrete Extensions 
 
-卢氏对应多边形不等式及其离散推广，属于卢氏不等式总定理的一个案例。
+卢氏对应多边形不等式及其离散推广，属于卢氏不等式总定理的一个案例，现代数学相关定理。
 
 
 
