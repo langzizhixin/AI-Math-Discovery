@@ -58,16 +58,8 @@ Lu’s Three-Chord Identity：  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A�
 <p align='center'>  
     <img src='Lu_%20Polygon_Inequality/0000.png' width='1200'/>
 </p>
-Lu’s Corresponding Polygon Inequalities and Their Discrete Extensions
-\[
-\boxed{
-\sum_{i=1}^{3}(a_i^2-b_i^2)^2
-\leq
-\frac32
-\left[\sum_{i=1}^{3}(a_i+b_i)^2\right]
-\left[\sum_{i=1}^{3}c_i^2\right]
-}
-\]
+Lu’s Corresponding Polygon Inequalities and Their Discrete Extensions 
+卢氏对应多边形不等式及其离散推广，属于卢氏不等式总定理的一个案例。
 
 
 
