@@ -44,3 +44,32 @@ Lu’s Three-Chord Identity：  A₁A₂·A₁A₅·P₁P₃ + A₂A₃·A₂A�
 
 欧式几何历经两千多年发展，被公认为是新定理发现的红海区，简单的图形已经很难再发现新数学定理。只有向多边，n边发展才有一点找到新恒等式的机会。有幸在大量研究后，被我抓到一枚定理。
 
+## 3. Lu_ Polygon_Inequality
+<p align='center'>
+  <b>
+    <a href="https://space.bilibili.com/431556168?spm_id_from=333.1007.0.0">Video </a>
+    |     
+    <a href="https://doi.org/10.5281/zenodo.24532106"> Paper </a>
+    |
+    <a href="https://github.com/langzizhixin/AI-Math-Discovery/tree/main/Lu_%20Polygon_Inequality">Code</a> 
+  </b>
+</p> 
+
+<p align='center'>  
+    <img src='Lu_%20Polygon_Inequality/0000.png' width='1200'/>
+</p>
+Lu’s Corresponding Polygon Inequalities and Their Discrete Extensions
+\[
+\boxed{
+\sum_{i=1}^{3}(a_i^2-b_i^2)^2
+\leq
+\frac32
+\left[\sum_{i=1}^{3}(a_i+b_i)^2\right]
+\left[\sum_{i=1}^{3}c_i^2\right]
+}
+\]
+
+
+
+
+
